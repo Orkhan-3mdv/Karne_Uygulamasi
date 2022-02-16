@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Karne Uygulamasi</string>
+    <string name="baslik">Karne Uygulamasina Hosgeldin</string>
+    <string name="ilkders">1-ci Dersin Adin Giriniz</string>
+    <string name="ikinciders">2-ci Dersin Adin Giriniz</string>
+    <string name="ucuncuders">3-cu Dersin Adin Giriniz</string>
+    <string name="dorduncuders">4-cu Dersin Adin Giriniz</string>
+    <string name="besinciders">5-ci Dersin Adin Giriniz</string>
+    <string name="gecis">Sonraki</string>
+
+
+
+    <string name="gecis2">Sonuc</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
